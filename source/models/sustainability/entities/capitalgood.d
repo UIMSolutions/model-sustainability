@@ -1,4 +1,4 @@
-module models.sustainability.capitalgood;
+module models.sustainability.entities.capitalgood;
 
 @safe:
 import models.sustainability;

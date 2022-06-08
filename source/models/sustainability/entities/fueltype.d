@@ -1,4 +1,4 @@
-module models.sustainability.fueltype;
+module models.sustainability.entities.fueltype;
 
 @safe:
 import models.sustainability;

@@ -1,4 +1,4 @@
-module models.sustainability.emission;
+module models.sustainability.entities.emission;
 
 @safe:
 import models.sustainability;

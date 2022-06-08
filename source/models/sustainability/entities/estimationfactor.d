@@ -1,4 +1,4 @@
-module models.sustainability.estimationfactor;
+module models.sustainability.entities.estimationfactor;
 
 @safe:
 import models.sustainability;

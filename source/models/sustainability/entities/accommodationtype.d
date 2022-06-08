@@ -1,4 +1,4 @@
-module models.sustainability.accommodationtype;
+module models.sustainability.entities.accommodationtype;
 
 @safe:
 import models.sustainability;

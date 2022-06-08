@@ -1,4 +1,4 @@
-module models.sustainability.organizationalprofile;
+module models.sustainability.entities.organizationalprofile;
 
 @safe:
 import models.sustainability;

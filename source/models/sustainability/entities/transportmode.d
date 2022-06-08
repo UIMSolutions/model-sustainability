@@ -1,4 +1,4 @@
-module models.sustainability.entities.transportmode;
+module models.sustainability.entities.entities.transportmode;
 
 @safe:
 import models.sustainability;

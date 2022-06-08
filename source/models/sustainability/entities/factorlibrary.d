@@ -1,4 +1,4 @@
-module models.sustainability.factorlibrary;
+module models.sustainability.entities.factorlibrary;
 
 @safe:
 import models.sustainability;

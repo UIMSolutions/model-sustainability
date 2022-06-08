@@ -1,4 +1,4 @@
-module models.sustainability.entities.valuechainpartner;
+module models.sustainability.entities.entities.valuechainpartner;
 
 @safe:
 import models.sustainability;

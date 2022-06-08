@@ -1,4 +1,4 @@
-module models.sustainability.entities.subindustry;
+module models.sustainability.entities.entities.subindustry;
 
 @safe:
 import models.sustainability;

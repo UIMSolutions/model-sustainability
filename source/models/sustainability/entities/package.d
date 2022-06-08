@@ -1,1 +1,1 @@
-module models.sustainability.entities;
+module models.sustainability.entities.entities;

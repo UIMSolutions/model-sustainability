@@ -1,4 +1,4 @@
-module models.sustainability.organizationalhierarchy;
+module models.sustainability.entities.organizationalhierarchy;
 
 @safe:
 import models.sustainability;

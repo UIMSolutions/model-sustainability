@@ -1,4 +1,4 @@
-module models.sustainability.entities.stationarycombustion;
+module models.sustainability.entities.entities.stationarycombustion;
 
 @safe:
 import models.sustainability;

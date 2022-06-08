@@ -1,1 +1,1 @@
-module models.sustainability.entities.businesstravels;
+module models.sustainability.entities.entities.businesstravels;

@@ -1,4 +1,4 @@
-module models.sustainability.factormapping;
+module models.sustainability.entities.factormapping;
 
 @safe:
 import models.sustainability;

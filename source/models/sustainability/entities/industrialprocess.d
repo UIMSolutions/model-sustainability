@@ -1,4 +1,4 @@
-module models.sustainability.industrialprocess;
+module models.sustainability.entities.industrialprocess;
 
 @safe:
 import models.sustainability;

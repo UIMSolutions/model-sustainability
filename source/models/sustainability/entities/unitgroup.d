@@ -1,4 +1,4 @@
-module models.sustainability.entities.unitgroup;
+module models.sustainability.entities.entities.unitgroup;
 
 @safe:
 import models.sustainability;
