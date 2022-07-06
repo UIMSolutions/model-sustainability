@@ -1,4 +1,4 @@
-module models.sustainability.entities.entities.businesstravels;
+module models.sustainability.entities.businesstravels;
 
-public import models.sustainability.entities.entities.businesstravels.businesstravel;
-public import models.sustainability.entities.entities.businesstravels.type;
+public import models.sustainability.entities.businesstravels.businesstravel;
+public import models.sustainability.entities.businesstravels.type;
