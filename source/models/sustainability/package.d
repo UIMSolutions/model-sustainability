@@ -15,5 +15,6 @@ public import uim.entities;
 
 // model packages
 public import models.sustainability.attributes;
+public import models.sustainability.classes;
 public import models.sustainability.elements;
 public import models.sustainability.entities;
