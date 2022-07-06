@@ -1,10 +1,13 @@
 module models.sustainability.entities;
 
+// Packages
 public import models.sustainability.entities.businesstravels;
 public import models.sustainability.entities.emissions;
 public import models.sustainability.entities.facilities;
 public import models.sustainability.entities.organizationals;
 public import models.sustainability.entities.units;
+
+// Modules
 public import models.sustainability.entities.accommodationtype;
 public import models.sustainability.entities.capitalgood;
 public import models.sustainability.entities.contractualinstrumenttype;
